@@ -80,7 +80,7 @@ Continuously improving my cloud engineering skills through hands-on projects, pr
 
 ## Connect
 
-- LinkedIn
+- **LinkedIn:** https://www.linkedin.com/in/snatrajcs
 
 <!--
 ## Hi there 👋
